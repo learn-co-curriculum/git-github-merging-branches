@@ -4,9 +4,8 @@
 
 - Perform standard and fast-forward merges with the `git merge` command.
 - Explain the difference between standard merges and fast-forward merges.
-- Introduce two other techniques that can be used when incorporating changes:
+- Explain two other techniques that can be used when incorporating changes:
   `squash` and `rebase`.
-- Delete branches with the `git delete` command.
 
 ## Introduction
 
