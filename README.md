@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Perform standard and fast-forward merges with the `git merge` command.
-- Explain the difference between standard merges and fast-forward merges.
+- Perform standard and fast forward merges with the `git merge` command.
+- Explain the difference between standard merges and fast forward merges.
 - Explain two other techniques that can be used when incorporating changes:
   `squash` and `rebase`.
 
@@ -131,7 +131,7 @@ When `rebase` is used in place of `merge`, it "rewrites" history by moving
 (rebasing) the point at which the feature branch was created to the end of the
 main branch's history. As a result, the history shows all the commits on the
 main branch, followed by all the commits from the feature branch, making it look
-similar to a fast-forward merge.
+similar to a fast forward merge.
 
 If we use the `new-feature` example from above:
 
@@ -243,6 +243,14 @@ the commit history on the `add-links` branch.
 
 Make sure you have successfully merged the `add-links` branch before moving on.
 We will continue working with this project in the next lesson.
+
+## Check for Understanding
+
+Before moving on to the next lesson, check for your understanding of this material
+by answering the following questions in your own words:
+
+- What is the difference between a standard merge and a fast forward merge?
+- What do we mean when we say that rebasing rewrites the history of a repo?
 
 ## Conclusion
 
