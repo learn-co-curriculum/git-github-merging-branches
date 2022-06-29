@@ -1,4 +1,4 @@
-# Merging with Git
+# Merging Branches with Git
 
 ## Learning Goals
 
